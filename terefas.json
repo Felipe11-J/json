@@ -1,19 +1,19 @@
 [
     {
         "id": 1,
-        "descricao": "Comprar leite",
-        "status": "pendente",
-        "prazo": "2025-04-10"
+        "descricao": "Prova subjetiva",
+        "status": "concluida",
+        "prazo": "2025-04-11"
     },
     {
         "id": 2,
         "descricao": "Lavar o carro",
-        "status": "em andamento",
+        "status": "pendente",
         "prazo": "2025-04-12"
     },
     {
         "id": 3,
-        "descricao": "Estudar para o exame",
+        "descricao": "Estudar para a prova",
         "status": "concluída",
         "prazo": "2025-04-05"
     }
